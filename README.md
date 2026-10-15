@@ -25,5 +25,3 @@ Columns: customer_id, signup_date, cancellation_date, plan_type, monthly_revenue
 | Subscription_Revenue_Project_clean.sql | SQL scripts for all metrics |
 | Subscription_Revenue_Project_Report.docx | Full project report |
 
-1. Import `Cleaned_data.csv` into the `subscriptions_raw` table (Table Data Import Wizard).
-2. Run `Subscription_Revenue_Project_clean.sql` section by section.
