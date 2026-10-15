@@ -5,7 +5,11 @@ SQL + Excel project that analyses a subscription business: monthly revenue (MRR)
 ## Tools
 - MySQL (data cleaning check, metrics, cohort analysis)
 - Excel (cleaning, pivot summaries, dashboard)
+## Interactive Dashboard Preview
 
+![Subscription Revenue Dashboard](dashboard.png)
+
+[View Excel Dashboard](Subscription_Revenue_data_set_Dashboards.xlsx)
 ## Dataset
 5,000 customers (Jan 2022 to Dec 2024). The data is sample data used for learning.
 Columns: customer_id, signup_date, cancellation_date, plan_type, monthly_revenue, payment_status, acquisition_channel, region.
